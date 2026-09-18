@@ -17,26 +17,6 @@
 
 <hr/>
 
-<h2>🛠️ Tech Stack</h2>
-
-<p>
-  <code>Next.js 16 App Router</code> (Fullstack) &middot;
-  <code>React 19</code> &middot;
-  <code>TypeScript</code> &middot;
-  <code>Prisma ORM</code> + <code>PostgreSQL 16</code> &middot;
-  <code>Tailwind CSS v4</code> &middot;
-  <code>Zustand</code> &middot;
-  <code>Recharts</code> &middot;
-  <code>Jose / JWT</code> &middot;
-  <code>ExcelJS</code> + <code>PDFKit</code>
-</p>
-
-<h2>📂 Repository bắt đầu</h2>
-
-<div align="center">
-  <h3><a href="https://github.com/DACN-2026/student-ews">student-ews</a></h3>
-</div>
-
 <h2>👥 Thành viên nhóm — CTK47A</h2>
 
 <div align="center">
@@ -47,7 +27,6 @@
       <th align="center">MSSV</th>
       <th align="center">Họ tên</th>
       <th align="center">GitHub</th>
-      <th align="center">Vai trò</th>
     </tr>
   </thead>
   <tbody>
@@ -56,21 +35,18 @@
       <td align="center">2312708</td>
       <td align="center">Trương Võ Trọng Nhân</td>
       <td align="center"><a href="https://github.com/Cookie1109">@Cookie1109</a></td>
-      <td align="center">🧭 Trưởng nhóm</td>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/minnhi09.png" width="50" height="50"/></td>
       <td align="center">2312660</td>
       <td align="center">Đinh Thị Mai Lành</td>
       <td align="center"><a href="https://github.com/minnhi09">@minnhi09</a></td>
-      <td align="center">Thành viên</td>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/annbcd.png" width="50" height="50"/></td>
       <td align="center">2312567</td>
       <td align="center">Võ Thị Minh Ân</td>
       <td align="center"><a href="https://github.com/annbcd">@annbcd</a></td>
-      <td align="center">Thành viên</td>
     </tr>
   </tbody>
 </table>
@@ -79,5 +55,5 @@
 <hr/>
 
 <div align="center">
-  <i>Học Phần Đồ Án Chuyên Ngành — Khoa Công Nghệ Thông Tin — Trường Đại Học Đà Lạt</i>
+  <i>Đồ Án Chuyên Ngành — Khoa Công Nghệ Thông Tin — Trường Đại Học Đà Lạt</i>
 </div>

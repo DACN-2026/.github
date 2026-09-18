@@ -17,7 +17,7 @@
 
 <hr/>
 
-<h2>👥 Thành viên nhóm — CTK47A</h2>
+<h2>Thành viên nhóm</h2>
 
 <div align="center">
 <table>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:1E293B&height=180&section=header&text=Student%20Early%20Warning%20System&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Hệ%20thống%20theo%20dõi%20học%20vụ%20&%20cảnh%20báo%20sớm%20sinh%20viên&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:1E293B&height=180&section=header&text=Student%20Early%20Warning%20System&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Hệ%20thống%20theo%20dõi%20học%20vụ%20và%20cảnh%20báo%20sớm%20sinh%20viên&descAlignY=62&descSize=18" width="100%"/>
   <br/><br/>
   <a href="https://nextjs.org">
     <img src="https://img.shields.io/badge/Next.js_16-Fullstack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
